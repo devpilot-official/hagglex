@@ -24,8 +24,10 @@
     "@nestjs/common": "^7.5.1",
     "@nestjs/core": "^7.5.1",
     "@nestjs/platform-express": "^7.5.1",
+    "cheerio": "^1.0.0-rc.9",
     "dotenv": "^10.0.0",
     "reflect-metadata": "^0.1.13",
+    "request-image-size": "^2.2.0",
     "rimraf": "^3.0.2",
     "rxjs": "^6.6.3"
   },
