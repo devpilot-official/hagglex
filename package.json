@@ -28,7 +28,7 @@
     "dotenv": "^10.0.0",
     "reflect-metadata": "^0.1.13",
     "request-image-size": "^2.2.0",
-    "rimraf": "^3.0.2",
+    "rimraf": "^4.0.0",
     "rxjs": "^6.6.3"
   },
   "devDependencies": {
